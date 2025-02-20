@@ -75,9 +75,9 @@ The analysis generates key outputs:
 1. *Inventory Summary:*
 
 
-   product_id  total_stock  total_sales  stock_turnover  stock_to_sales_ratio
-0           1        1500         300           0.20                5.00
-1           2         200         400           2.00                0.50
+       product_id   total_stock  total_sales    stock_turnover    stock_to_sales_ratio
+0           1         1500           300           0.20                5.00
+1           2         200           400            2.00                0.50
 
 
 2. *Forecast Plot:*
